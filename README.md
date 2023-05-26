@@ -5,4 +5,5 @@ yeni ekleme
 # nasıl olur?
 #böyle olur!
 #sıkıldım artık, bitsin bu işkence
+#ben bitti demeden bitmez
 
