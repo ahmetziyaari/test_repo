@@ -2,4 +2,5 @@
 # ekleme
 yeni ekleme
 #ekleme öyle olmaz
+# nasıl olur?
 
