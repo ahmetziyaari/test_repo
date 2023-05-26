@@ -6,4 +6,5 @@ yeni ekleme
 #böyle olur!
 #sıkıldım artık, bitsin bu işkence
 #ben bitti demeden bitmez
+#ben bitti diyorum, yeter be a aa
 
